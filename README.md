@@ -1,5 +1,5 @@
 # Wireless-robotic-hand-with-DIY-flex-sensors
-Wirelessly controlled InMoov robotic hand via DIY flex sensors 
+## Wirelessly controlled InMoov robotic hand via DIY flex sensors 
 
 
 The 3D robotic hand files were taken from the InMooV open-source repository using the link: https://inmoov.fr/
